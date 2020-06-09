@@ -2,7 +2,6 @@
 
 ## Basic Schema
 ![Alt text](./project_schema.svg)
-<img src="./project_schema.svg">
 
 ## Features List
 * Support localization for price values
