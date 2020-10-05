@@ -15,7 +15,7 @@
     "es6": true,
     "mocha": true
   },
-  "plugins": ["redux-saga", "react", "jsx-a11y", "prettier", "standard"],
+  "plugins": ["redux-saga", "react", "jsx-a11y", "prettier"],
   "globals": {
     "__BASE__": true,
     "__DEBUG__": true,
