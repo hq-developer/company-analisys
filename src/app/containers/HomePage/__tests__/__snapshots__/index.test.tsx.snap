@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should render and match the snapshot 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 {
+  font-size: 1.25rem;
+  color: rgba(58,52,51,1);
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.c5 {
+  font-size: 0.875rem;
+  color: rgba(58,52,51,0.7);
+  font-weight: normal;
+}
+
+.c2 {
+  width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  box-sizing: content-box;
+}
+
+.c0 {
+  box-shadow: 0 1px 0 0 rgba(58,52,51,0.05);
+  height: 4rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgba(255,255,255,1);
+  z-index: 2;
+}
+
+.c0 .c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c6 {
+  font-size: 32px;
+  font-weight: bold;
+  color: rgba(58,52,51,1);
+  margin: 1rem 0;
+}
+
+@supports (-webkit-backdrop-filter:blur(10px)) or (backdrop-filter:blur(10px)) {
+  .c0 {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(255,255,255,0.75);
+  }
+}
+
+<div>
+  <header
+    class="c0"
+  >
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+      >
+        <div
+          class="c4"
+        >
+          Company Analysis
+        </div>
+        <div
+          class="c5"
+        >
+          For better profit
+        </div>
+      </div>
+    </div>
+  </header>
+  <div
+    class="c1 c2"
+  >
+    <h2
+      class="c6"
+    >
+      Main Data
+    </h2>
+  </div>
+</div>
+`;
