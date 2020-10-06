@@ -39,3 +39,8 @@ export const fetchMarketsPrices = id =>
 // export const fetchConversionRates = () => {
 //     const baseUrl = 'https://api.exchangeratesapi.io';
 // }
+
+export const update = () =>
+    fetch(`${API_DOMAIN}/update`)
+        .then(r => true)
+        .catch(() => false);

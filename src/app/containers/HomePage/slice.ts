@@ -12,7 +12,16 @@
  */
 import {PayloadAction} from '@reduxjs/toolkit';
 import {createSlice} from 'utils/@reduxjs/toolkit';
-import {ContainerState, NetworkStatus} from './types';
+import {
+    ContainerState,
+    ICompanyDTO,
+    ICompanyPricesDTO,
+    IMarketDTO,
+    IMarketPricesDTO,
+    NetworkStatus,
+    Price,
+    IPricesMap,
+} from './types';
 
 // The initial state of the GithubRepoForm container
 export const initialState: ContainerState = {
@@ -23,22 +32,46 @@ export const initialState: ContainerState = {
     network: NetworkStatus.IDLE,
 };
 
+const createPricesMap = (data: Array<Price>): Price => data.reduce((a, c) => {
+    const k = Object.keys(c)[0];
+    const v = Object.values(c)[0];
+    a[k] = v;
+    return a;
+}, {} as Price)
+
 const tableDataSlice = createSlice({
     name: 'table',
     initialState,
     reducers: {
         initModule() {},
-        setCompanies(state, action: PayloadAction<Array<any>>) {
+        initUpdates() {},
+        setCompanies(state, action: PayloadAction<Array<ICompanyDTO>>) {
             state.companies = action.payload;
         },
-        setCompaniesPrices(state, action: PayloadAction<Array<any>>) {
-            state.companiesPrices = action.payload;
+        setCompaniesPrices(state, action: PayloadAction<Array<ICompanyPricesDTO>>) {
+            state.companiesPrices =
+                action.payload.reduce((a, c) => {
+                    const n = [...a];
+                    n.push({
+                        id: c.company,
+                        prices: createPricesMap(c.prices),
+                    } as IPricesMap)
+                    return n;
+                }, [] as Array<IPricesMap>);
         },
-        setMarkets(state, action: PayloadAction<Array<any>>) {
+        setMarkets(state, action: PayloadAction<Array<IMarketDTO>>) {
             state.markets = action.payload;
         },
-        setMarketsPrices(state, action: PayloadAction<Array<any>>) {
-            state.marketsPrices = action.payload;
+        setMarketsPrices(state, action: PayloadAction<Array<IMarketPricesDTO>>) {
+            state.marketsPrices =
+                action.payload.reduce((a, c) => {
+                    const n = [...a];
+                    n.push({
+                        id: c.market,
+                        prices: createPricesMap(c.prices),
+                    } as IPricesMap)
+                    return n;
+                }, [] as Array<IPricesMap>);
         },
         setNetworkState(state, action: PayloadAction<NetworkStatus>) {
             state.network = action.payload;

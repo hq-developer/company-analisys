@@ -1,11 +1,12 @@
-import React, {useEffect} from 'react';
+import React, {ReactNode, useEffect} from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useInjectReducer, useInjectSaga } from 'utils/redux-injectors';
-import {useDispatch} from "react-redux";
+import {useDispatch, useSelector} from "react-redux";
 
 // Redux infra
 import { sliceKey, reducer, actions } from './slice';
 import { tableWatcher } from './sagas';
+import { selectDataForTable } from './selectors';
 
 // Components
 import { NavBar } from '../NavBar';
@@ -17,10 +18,14 @@ export function HomePage() {
   useInjectSaga({ key: sliceKey, saga: tableWatcher });
 
   const dispatch = useDispatch();
+  const rows: Array<Array<ReactNode>> = useSelector(selectDataForTable);
 
   useEffect(() => {
     dispatch(actions.initModule());
-  });
+
+    const t = setTimeout(dispatch(actions.initUpdates()), 1000);
+    return () => { clearTimeout(t)};
+  }, [dispatch]);
 
   return (
     <>
@@ -33,7 +38,7 @@ export function HomePage() {
       </Helmet>
       <NavBar />
       <PageWrapper>
-        <Table />
+        <Table rows={rows}/>
       </PageWrapper>
     </>
   );
