@@ -67,7 +67,8 @@
     "lint:css": "stylelint src/**/*.css",
     "generate": "cross-env TS_NODE_PROJECT='./internals/ts-node.tsconfig.json' plop --plopfile internals/generators/plopfile.ts",
     "cleanAndSetup": "ts-node --project=./internals/ts-node.tsconfig.json ./internals/scripts/clean.ts",
-    "prettify": "prettier --write"
+    "prettify": "prettier --write",
+    "backend": "node internals/backend/server.js"
   },
   "eslintConfig": {
     "extends": "react-app"

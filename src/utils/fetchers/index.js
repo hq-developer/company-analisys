@@ -1,41 +1,41 @@
-import { generateData } from '../../../internals/backend/data';
-
-const mainDataSet = generateData();
-
-/**
- * Access points
- */
-export const getPrices = [10, 20];
-
+const API_DOMAIN = 'http://localhost:3030'
 /**
  * Fetch all companies
  */
-export const fetchCompanies = () => mainDataSet.companies;
+export const fetchCompanies = () =>
+    fetch(`${API_DOMAIN}/companies`)
+        .then(response => response.json())
+        .catch(() => undefined);
 
 /**
- * Fetch company's prices by company's ids
- * @param {Array} companyIds 
+ * Fetch company's prices by company's id
+ * @param id
  */
-export const fetchCompaniesPrices = companyIds => Array.isArray(companyIds) 
-    ? mainDataSet.companiesPrices.filter(prices => companyIds.includes(prices.company))
-    : undefined;
+export const fetchCompanyPrices = id =>
+    fetch(`${API_DOMAIN}/company/${id}/prices`)
+        .then(response => response.json())
+        .catch(() => undefined);
 
 /**
  * Fetch all markets data
  */
-export const fetchMarkets = () => mainDataSet.markets;
+export const fetchMarkets = () =>
+    fetch(`${API_DOMAIN}/markets`)
+    .then(response => response.json())
+    .catch(() => undefined);
 
 /**
- * Fetch markets prices by market's ids
- * @param {Array} marketIds 
+ * Fetch market prices by market's id
+ * @param id
  */
-export const fetchMarketsPrices = marketIds => Array.isArray(marketIds)
-    ? mainDataSet.marketsPrices.filter(market => marketIds.includes(market.id))
-    : undefined;
+export const fetchMarketsPrices = id =>
+    fetch(`${API_DOMAIN}/market/${id}/prices`)
+        .then(response => response.json())
+        .catch(() => undefined);
 
 /**
  * Fetch conversion rates from: https://exchangeratesapi.io/
  */
-export const fetchConversionRates = () => {
-    const baseUrl = 'https://api.exchangeratesapi.io';
-}
+// export const fetchConversionRates = () => {
+//     const baseUrl = 'https://api.exchangeratesapi.io';
+// }

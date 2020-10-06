@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TableComponent/> should render the component 1`] = `
+<div>
+  <table>
+    <thead>
+      <tr
+        class=""
+      >
+        <td
+          class=""
+        >
+          Col1
+        </td>
+        <td
+          class=""
+        >
+          Col2
+        </td>
+        <td
+          class=""
+        >
+          Col3
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        class=""
+      >
+        <td
+          class=""
+        >
+          1
+        </td>
+        <td
+          class=""
+        >
+          2
+        </td>
+        <td
+          class=""
+        >
+          3
+        </td>
+      </tr>
+      <tr
+        class=""
+      >
+        <td
+          class=""
+        >
+          one
+        </td>
+        <td
+          class=""
+        >
+          two
+        </td>
+        <td
+          class=""
+        >
+          three
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
