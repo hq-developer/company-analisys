@@ -71,10 +71,11 @@ const marketsList = ['Energy', 'Farming', 'Mining'];
 
 const generateData = () => {
     const today = moment();
-    const sequenceStart = today.clone().subtract(30, 'days');
+    const sequenceStart = today.clone().subtract(15, 'days');
+    const sequenceEnd = today.clone().add(15, 'days');
     const datesRange = Array.from(
         momentRange
-          .range(sequenceStart, today)
+          .range(sequenceStart, sequenceEnd)
           .by('day'),
       );
 

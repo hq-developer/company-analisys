@@ -2,7 +2,27 @@ const express = require('express');
 
 const dataSet = require('./data');
 
-const mainDataSet = dataSet.generateData();
+const dataSource = {
+    mainDataSet: {},
+}
+
+dataSource.mainDataSet = dataSet.generateData();
+
+const getCompanies = () => {
+    return dataSource.mainDataSet.companies;
+}
+
+const getCompaniesPrices = () => {
+    return dataSource.mainDataSet.companiesPrices;
+}
+
+const getMarkets = () => {
+    return dataSource.mainDataSet.markets;
+}
+
+const getMarketsPrices = () => {
+    return dataSource.mainDataSet.marketsPrices;
+}
 
 const PORT = process.env.PORT || 3030;
 const HOST = process.env.HOST || null;
@@ -13,8 +33,13 @@ app.use((req, res, next) => {
     next();
 });
 
+app.get('/update', (req, res) => {
+    dataSource.mainDataSet = dataSet.generateData();
+    res.send({status: 'success'});
+});
+
 app.get('/companies', (req, res) => {
-    res.send(mainDataSet.companies);
+    res.send(getCompanies());
 });
 
 app.get('/company/:id/prices', (req, res) => {
@@ -25,7 +50,8 @@ app.get('/company/:id/prices', (req, res) => {
 
     try {
         const companyId = parseInt(id);
-        const prices = mainDataSet.companiesPrices.filter(p => p.company === companyId);
+        const rawPrices = getCompaniesPrices();
+        const prices = rawPrices.filter(p => p.company === companyId);
         if (prices && Array.isArray(prices)) {
             res.send(prices[0]);
         } else {
@@ -37,7 +63,7 @@ app.get('/company/:id/prices', (req, res) => {
 });
 
 app.get('/markets', (req, res) => {
-    res.send(mainDataSet.markets);
+    res.send(getMarkets());
 });
 
 app.get('/market/:id/prices', (req, res) => {
@@ -48,7 +74,8 @@ app.get('/market/:id/prices', (req, res) => {
 
     try {
         const marketId = parseInt(id);
-        const prices = mainDataSet.marketsPrices.filter(p => p.market === marketId);
+        const rawPrices = getMarketsPrices();
+        const prices = rawPrices.filter(p => p.market === marketId);
         if (prices && Array.isArray(prices)) {
             res.send(prices[0]);
         } else {
