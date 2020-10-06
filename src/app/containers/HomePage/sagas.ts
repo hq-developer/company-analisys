@@ -1,16 +1,15 @@
-import { takeLatest, delay } from 'redux-saga/effects';
+import { takeLatest } from 'redux-saga/effects';
 
 // Actions
 import { actions } from './slice';
 
+// Fetchers
+// import { fetchCompanies } from 'utils/fetchers'
+
 /**
- * Github repos request/response handler
+ * Initialize Module
  */
-export function* init() {
-    console.log('Init Data')
-    yield delay(500);
-    console.log('Init Data 2')
-}
+export function* init() {}
 
 /**
  * Root saga manages watcher lifecycle

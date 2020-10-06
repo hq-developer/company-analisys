@@ -67,7 +67,8 @@
     "lint:css": "stylelint src/**/*.css",
     "generate": "cross-env TS_NODE_PROJECT='./internals/ts-node.tsconfig.json' plop --plopfile internals/generators/plopfile.ts",
     "cleanAndSetup": "ts-node --project=./internals/ts-node.tsconfig.json ./internals/scripts/clean.ts",
-    "prettify": "prettier --write"
+    "prettify": "prettier --write",
+    "backend": "node internals/backend/server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -118,5 +119,11 @@
         "statements": 90
       }
     }
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0",
+    "moment-range": "^4.0.2"
   }
 }
