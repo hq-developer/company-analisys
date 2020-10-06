@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="project_schema.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 420 297"
+   viewBox="0 0 300 297"
    height="297mm"
-   width="420mm">
+   width="300mm">
   <defs
      id="defs2">
     <rect
@@ -63,7 +63,7 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="558.95013"
+     inkscape:cy="579.87266"
      inkscape:cx="793.70079"
      inkscape:zoom="1.0823864"
      inkscape:pageshadow="2"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,10 +88,11 @@
      style="display:inline"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Table">
+     inkscape:label="Table"
+     sodipodi:insensitive="true">
     <rect
        y="6.9808698"
-       x="16.314766"
+       x="1.4981017"
        height="210.25334"
        width="297.11148"
        id="rect1345"
@@ -101,18 +102,18 @@
        id="rect1342-3"
        width="36.906582"
        height="9.0746012"
-       x="221.55475"
+       x="206.73824"
        y="22.309624" />
     <rect
        y="22.309624"
-       x="265.07758"
+       x="250.26094"
        height="9.0746021"
        width="36.906582"
        id="rect1342"
        style="fill:#cccccc;stroke:none;stroke-width:0.224064" />
     <rect
        y="83.930405"
-       x="28.147213"
+       x="13.330544"
        height="13.410977"
        width="274.32169"
        id="rect10"
@@ -120,78 +121,78 @@
     <text
        id="text14"
        y="91.530754"
-       x="34.767464"
+       x="19.950788"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="91.530754"
-         x="34.767464"
+         x="19.950788"
          id="tspan12"
          sodipodi:role="line">Company One</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="84.496368"
+       x="69.679688"
        y="91.54023"
        id="text14-0"><tspan
          sodipodi:role="line"
          id="tspan12-6"
-         x="84.496368"
+         x="69.679688"
          y="91.54023"
          style="stroke-width:0.264583">Mining</tspan></text>
     <text
        id="text14-0-4"
        y="91.843399"
-       x="124.3327"
+       x="109.51605"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="91.843399"
-         x="124.3327"
+         x="109.51605"
          id="tspan12-6-7"
          sodipodi:role="line">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#008000;stroke-width:0.264583"
-       x="165.00098"
+       x="150.18446"
        y="91.591904"
        id="text14-0-4-4"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-8"
-         x="165.00098"
+         x="150.18446"
          y="91.591904"
          style="fill:#008000;stroke-width:0.264583">growth</tspan></text>
     <text
        id="text14-0-4-4-5"
        y="91.941582"
-       x="204.92862"
+       x="190.11211"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#d40000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#d40000;stroke-width:0.264583"
          y="91.941582"
-         x="204.92862"
+         x="190.11211"
          id="tspan12-6-7-8-8"
          sodipodi:role="line">loss</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="241.1769"
+       x="226.36038"
        y="91.843399"
        id="text14-0-4-2"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-6"
-         x="241.1769"
+         x="226.36038"
          y="91.843399"
          style="stroke-width:0.264583">$ 60,00</tspan></text>
     <text
        id="text14-0-4-2-0"
        y="91.843399"
-       x="281.8212"
+       x="267.00439"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="91.843399"
-         x="281.8212"
+         x="267.00439"
          id="tspan12-6-7-6-6"
          sodipodi:role="line">$ 20,00</tspan></text>
     <rect
@@ -199,88 +200,88 @@
        id="rect10-6"
        width="274.32169"
        height="13.410977"
-       x="28.147213"
+       x="13.330544"
        y="97.341385" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="34.76746"
+       x="19.950785"
        y="104.94173"
        id="text14-4"><tspan
          sodipodi:role="line"
          id="tspan12-62"
-         x="34.76746"
+         x="19.950785"
          y="104.94173"
          style="stroke-width:0.264583">Company One</tspan></text>
     <text
        id="text14-0-8"
        y="104.95121"
-       x="84.496368"
+       x="69.679688"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="104.95121"
-         x="84.496368"
+         x="69.679688"
          id="tspan12-6-9"
          sodipodi:role="line">Mining</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="124.3327"
+       x="109.51605"
        y="105.25436"
        id="text14-0-4-6"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-0"
-         x="124.3327"
+         x="109.51605"
          y="105.25436"
          style="stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        id="text14-0-4-4-7"
        y="105.00288"
-       x="165.00096"
+       x="150.18445"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#008000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#008000;stroke-width:0.264583"
          y="105.00288"
-         x="165.00096"
+         x="150.18445"
          id="tspan12-6-7-8-0"
          sodipodi:role="line">growth</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#d40000;stroke-width:0.264583"
-       x="204.92862"
+       x="190.11211"
        y="105.35255"
        id="text14-0-4-4-5-1"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-8-8-0"
-         x="204.92862"
+         x="190.11211"
          y="105.35255"
          style="fill:#d40000;stroke-width:0.264583">loss</tspan></text>
     <text
        id="text14-0-4-2-1"
        y="105.25436"
-       x="241.17688"
+       x="226.36037"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="105.25436"
-         x="241.17688"
+         x="226.36037"
          id="tspan12-6-7-6-3"
          sodipodi:role="line">$ 60,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="281.8212"
+       x="267.00439"
        y="105.25436"
        id="text14-0-4-2-0-7"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-6-6-7"
-         x="281.8212"
+         x="267.00439"
          y="105.25436"
          style="stroke-width:0.264583">$ 20,00</tspan></text>
     <rect
        y="97.341385"
-       x="28.147213"
+       x="13.330544"
        height="13.410977"
        width="274.32169"
        id="rect191"
@@ -288,78 +289,78 @@
     <text
        id="text195"
        y="104.94173"
-       x="34.76746"
+       x="19.950785"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="104.94173"
-         x="34.76746"
+         x="19.950785"
          id="tspan193"
          sodipodi:role="line">Company Two</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="84.496368"
+       x="69.679688"
        y="104.95121"
        id="text199"><tspan
          sodipodi:role="line"
          id="tspan197"
-         x="84.496368"
+         x="69.679688"
          y="104.95121"
          style="stroke-width:0.264583">Farming</tspan></text>
     <text
        id="text203"
        y="105.25436"
-       x="124.3327"
+       x="109.51605"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="105.25436"
-         x="124.3327"
+         x="109.51605"
          id="tspan201"
          sodipodi:role="line">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#008000;stroke-width:0.264583"
-       x="165.00096"
+       x="150.18445"
        y="105.00288"
        id="text207"><tspan
          sodipodi:role="line"
          id="tspan205"
-         x="165.00096"
+         x="150.18445"
          y="105.00288"
          style="fill:#008000;stroke-width:0.264583">growth</tspan></text>
     <text
        id="text211"
        y="105.35255"
-       x="204.92862"
+       x="190.11211"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#d40000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#d40000;stroke-width:0.264583"
          y="105.35255"
-         x="204.92862"
+         x="190.11211"
          id="tspan209"
          sodipodi:role="line">loss</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="241.17688"
+       x="226.36037"
        y="105.25436"
        id="text215"><tspan
          sodipodi:role="line"
          id="tspan213"
-         x="241.17688"
+         x="226.36037"
          y="105.25436"
          style="stroke-width:0.264583">$ 60,00</tspan></text>
     <text
        id="text219"
        y="105.25436"
-       x="281.8212"
+       x="267.00439"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="105.25436"
-         x="281.8212"
+         x="267.00439"
          id="tspan217"
          sodipodi:role="line">$ 20,00</tspan></text>
     <rect
@@ -367,83 +368,83 @@
        id="rect191-2"
        width="274.32169"
        height="13.410977"
-       x="28.147209"
+       x="13.33054"
        y="110.75237" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="34.76746"
+       x="19.950785"
        y="118.35271"
        id="text195-6"><tspan
          sodipodi:role="line"
          id="tspan193-4"
-         x="34.76746"
+         x="19.950785"
          y="118.35271"
          style="stroke-width:0.264583">Company Three</tspan></text>
     <text
        id="text199-5"
        y="118.36217"
-       x="84.496368"
+       x="69.679688"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="118.36217"
-         x="84.496368"
+         x="69.679688"
          id="tspan197-2"
          sodipodi:role="line">Mining</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="124.3327"
+       x="109.51605"
        y="118.66534"
        id="text203-0"><tspan
          sodipodi:role="line"
          id="tspan201-2"
-         x="124.3327"
+         x="109.51605"
          y="118.66534"
          style="stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        id="text207-9"
        y="118.41383"
-       x="165.00096"
+       x="150.18445"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#008000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#008000;stroke-width:0.264583"
          y="118.41383"
-         x="165.00096"
+         x="150.18445"
          id="tspan205-0"
          sodipodi:role="line">growth</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#d40000;stroke-width:0.264583"
-       x="204.92863"
+       x="190.11212"
        y="118.76355"
        id="text211-9"><tspan
          sodipodi:role="line"
          id="tspan209-9"
-         x="204.92863"
+         x="190.11212"
          y="118.76355"
          style="fill:#d40000;stroke-width:0.264583">loss</tspan></text>
     <text
        id="text215-4"
        y="118.66534"
-       x="241.17688"
+       x="226.36037"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="118.66534"
-         x="241.17688"
+         x="226.36037"
          id="tspan213-5"
          sodipodi:role="line">$ 60,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="281.8212"
+       x="267.00439"
        y="118.66534"
        id="text219-1"><tspan
          sodipodi:role="line"
          id="tspan217-0"
-         x="281.8212"
+         x="267.00439"
          y="118.66534"
          style="stroke-width:0.264583">$ 20,00</tspan></text>
     <rect
@@ -451,88 +452,88 @@
        id="rect10-7"
        width="274.32169"
        height="13.410977"
-       x="28.147213"
+       x="13.330544"
        y="68.402756" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="34.76746"
+       x="19.950785"
        y="76.003105"
        id="text14-8"><tspan
          sodipodi:role="line"
          id="tspan12-8"
-         x="34.76746"
+         x="19.950785"
          y="76.003105"
          style="stroke-width:0.264583">Company Name</tspan></text>
     <text
        id="text14-0-6"
        y="76.012581"
-       x="84.496368"
+       x="69.679688"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="76.012581"
-         x="84.496368"
+         x="69.679688"
          id="tspan12-6-0"
          sodipodi:role="line">Market</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="124.33266"
+       x="109.51601"
        y="76.31575"
        id="text14-0-4-46"><tspan
          id="tspan350"
          sodipodi:role="line"
-         x="124.33266"
+         x="109.51601"
          y="76.31575"
          style="stroke-width:0.264583">Value Now</tspan></text>
     <text
        id="text14-0-4-4-6"
        y="76.064255"
-       x="165.00095"
+       x="150.18443"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#000000;stroke-width:0.264583"
          y="76.064255"
-         x="165.00095"
+         x="150.18443"
          id="tspan12-6-7-8-09"
          sodipodi:role="line">Company Trend</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
-       x="204.92862"
+       x="190.11211"
        y="76.413933"
        id="text14-0-4-4-5-7"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-8-8-5"
-         x="204.92862"
+         x="190.11211"
          y="76.413933"
          style="fill:#000000;stroke-width:0.264583">Market Trend</tspan></text>
     <text
        id="text14-0-4-2-9"
        y="76.31575"
-       x="241.17688"
+       x="226.36037"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="76.31575"
-         x="241.17688"
+         x="226.36037"
          id="tspan12-6-7-6-7"
          sodipodi:role="line">Best Price</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="281.8212"
+       x="267.00439"
        y="76.31575"
        id="text14-0-4-2-0-8"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-6-6-5"
-         x="281.8212"
+         x="267.00439"
          y="76.31575"
          style="stroke-width:0.264583">Worst Price</tspan></text>
     <rect
        y="47.054268"
-       x="28.14719"
+       x="13.330522"
        height="13.410977"
        width="274.32169"
        id="rect10-7-3"
@@ -540,317 +541,194 @@
     <text
        id="text14-8-3"
        y="54.715767"
-       x="34.767437"
+       x="19.950762"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="54.715767"
-         x="34.767437"
+         x="19.950762"
          id="tspan12-8-8"
          sodipodi:role="line">Analysis Period to past: 30 days</tspan></text>
     <text
        id="text14-0-4-46-9"
        y="55.074917"
-       x="123.80348"
+       x="108.98684"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="55.074917"
-         x="123.80348"
+         x="108.98684"
          sodipodi:role="line"
          id="tspan350-3">All Markets</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
-       x="165.00093"
+       x="150.18442"
        y="54.715767"
        id="text14-0-4-4-6-7"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-8-09-8"
-         x="165.00093"
+         x="150.18442"
          y="54.715767"
          style="fill:#000000;stroke-width:0.264583">Company's trends</tspan></text>
     <text
        id="text14-0-4-4-5-7-7"
        y="55.074917"
-       x="204.39949"
+       x="189.58298"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#000000;stroke-width:0.264583"
          y="55.074917"
-         x="204.39949"
+         x="189.58298"
          id="tspan12-6-7-8-8-5-4"
          sodipodi:role="line">Market's trends</tspan></text>
     <text
        id="text14-0-4-2-0-8-8"
        y="28.081774"
-       x="225.7686"
+       x="210.95209"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="28.081774"
-         x="225.7686"
+         x="210.95209"
          id="tspan12-6-7-6-6-5-8"
          sodipodi:role="line">Curency: EUR</tspan></text>
     <text
        id="text449"
        y="29.299593"
-       x="29.171986"
+       x="14.355314"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';stroke-width:0.264583"
          y="29.299593"
-         x="29.171986"
+         x="14.355314"
          id="tspan447"
          sodipodi:role="line">Companies Analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="271.53433"
+       x="256.71753"
        y="27.811552"
        id="text14-0-4-2-0-8-8-0"><tspan
          sodipodi:role="line"
          id="tspan12-6-7-6-6-5-8-3"
-         x="271.53433"
+         x="256.71753"
          y="27.811552"
          style="stroke-width:0.264583">Download Report</tspan></text>
     <path
        sodipodi:nodetypes="ccccc"
-       d="m 252.63333,26.16537 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
+       d="m 237.8166,26.16537 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
        style="fill:#000000;stroke:none;stroke-width:0.0840848"
        id="rect365" />
     <path
        id="rect365-6"
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.0840848"
-       d="m 143.19433,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
+       d="m 128.3776,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect365-7"
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.0840848"
-       d="m 193.31096,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
+       d="m 178.49423,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect365-5"
        style="display:inline;fill:#000000;stroke:none;stroke-width:0.0840848"
-       d="m 229.60958,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
+       d="m 214.79285,53.119401 1.5935,0.01198 -1.54338,1.543387 -1.54339,-1.543387 z"
        sodipodi:nodetypes="ccccc" />
   </g>
   <g
-     sodipodi:insensitive="true"
-     inkscape:label="Endpoints"
-     id="layer3"
-     inkscape:groupmode="layer">
-    <text
-       id="text1349"
-       y="12.136766"
-       x="320.59009"
-       style="font-size:6.70278px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         id="tspan1367"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="12.136766"
-         x="320.59009"
-         sodipodi:role="line">Fetch companies: [{</tspan><tspan
-         id="tspan1369"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="20.515242"
-         x="320.59009"
-         sodipodi:role="line">  id: number, </tspan><tspan
-         id="tspan1371"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="28.893715"
-         x="320.59009"
-         sodipodi:role="line">  name: string, </tspan><tspan
-         id="tspan1373"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="37.27219"
-         x="320.59009"
-         sodipodi:role="line">  market: number, </tspan><tspan
-         id="tspan1375"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="45.650665"
-         x="320.59009"
-         sodipodi:role="line">  description: string,</tspan><tspan
-         id="tspan1377"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="54.02914"
-         x="320.59009"
-         sodipodi:role="line">}];</tspan><tspan
-         id="tspan1381"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="62.407616"
-         x="320.59009"
-         sodipodi:role="line" /><tspan
-         id="tspan1383"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="70.786087"
-         x="320.59009"
-         sodipodi:role="line">Fetch company's prices: [{</tspan><tspan
-         id="tspan1385"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="79.164566"
-         x="320.59009"
-         sodipodi:role="line">  company: number,</tspan><tspan
-         id="tspan1391"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="87.543037"
-         x="320.59009"
-         sodipodi:role="line">  prices: [{ 'YYYY-MM-DD': number }],</tspan><tspan
-         id="tspan1417"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         y="95.921516"
-         x="320.59009"
-         sodipodi:role="line">}];</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.70278px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="320.59009"
-       y="130.1636"
-       id="text1349-7"><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="130.1636"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1401-4">Fetch markets: [{</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="138.54208"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1403-3">  id: number,</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="146.92055"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1407-8">  name: string,</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="155.29903"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1409-6">  description: string,</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="163.67751"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1405-0">}];</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="172.05598"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1411-8" /><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="180.43445"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1413-9">Fetch market's prices: [{</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="188.81293"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1415-2">  market: number,</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="197.19141"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1419-2">  prices: [{'YYYY-MM-DD': number}],</tspan><tspan
-         sodipodi:role="line"
-         x="320.59009"
-         y="205.56987"
-         style="font-size:6.70278px;stroke-width:0.264583"
-         id="tspan1417-3">}];</tspan></text>
-  </g>
-  <g
      style="display:inline"
-     sodipodi:insensitive="true"
      inkscape:label="Popover"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
        id="rect451"
        width="145.49728"
        height="59.471008"
-       x="92.139221"
+       x="77.32254"
        y="124.18841" />
     <text
        id="text195-6-5"
        y="143.97095"
-       x="97.512085"
+       x="82.695404"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="143.97095"
-         x="97.512085"
+         x="82.695404"
          id="tspan193-4-8"
          sodipodi:role="line">Company Three</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="97.923012"
+       x="83.106331"
        y="164.80882"
        id="text199-5-4"><tspan
          sodipodi:role="line"
          id="tspan197-2-3"
-         x="97.923012"
+         x="83.106331"
          y="164.80882"
          style="stroke-width:0.264583">Sector: Mining</tspan></text>
     <text
        id="text525"
        y="131.21715"
-       x="102.34212"
+       x="87.525444"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="131.21715"
-         x="102.34212"
+         x="87.525444"
          id="tspan523"
          sodipodi:role="line">Company's</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
-       x="157.27449"
+       x="142.45798"
        y="131.57632"
        id="text525-2"><tspan
          sodipodi:role="line"
          id="tspan523-4"
-         x="157.27449"
+         x="142.45798"
          y="131.57632"
          style="fill:#999999;stroke-width:0.264583">Market's</tspan></text>
     <text
        id="text525-2-3"
        y="131.18355"
-       x="208.88759"
+       x="194.07108"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#999999;stroke-width:0.264583"
          y="131.18355"
-         x="208.88759"
+         x="194.07108"
          id="tspan523-4-7"
          sodipodi:role="line">Competitors</tspan></text>
     <path
        id="path563"
-       d="M 91.970141,135.33834 H 237.73817"
+       d="M 77.153468,135.33834 H 222.92144"
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        id="path565"
-       d="m 137.42892,126.81786 v 6.90568"
+       d="m 122.61219,126.81786 v 6.90568"
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 188.98518,126.81786 v 6.90568"
+       d="m 174.16845,126.81786 v 6.90568"
        id="path565-1" />
     <text
        id="text203-0-7"
        y="171.29968"
-       x="98.351402"
+       x="83.534721"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="171.29968"
-         x="98.351402"
+         x="83.534721"
          id="tspan201-2-1"
          sodipodi:role="line">value: $ 50,00</tspan></text>
     <g
-       transform="translate(16.404167,11.641668)"
+       transform="translate(1.5874988,11.641668)"
        id="g594">
       <text
          xml:space="preserve"
@@ -880,7 +758,7 @@
        id="text596"
        xml:space="preserve" />
     <text
-       transform="translate(16.404167,6.879167)"
+       transform="translate(1.5874988,6.879167)"
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light Italic';white-space:pre;shape-inside:url(#rect604);fill:#666666;"
        id="text602"
        xml:space="preserve"><tspan
@@ -895,33 +773,33 @@
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light Italic';fill:#666666">company we are talking about.</tspan></tspan></text>
     <path
        id="path608"
-       d="m 139.37936,176.36351 h 92.69889"
+       d="m 124.56263,176.36351 h 92.69889"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        id="text612"
        y="180.31818"
-       x="139.12785"
+       x="124.3113"
        style="font-size:2.82222px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;fill:#666666;stroke-width:0.264583"
          y="180.31818"
-         x="139.12785"
+         x="124.3113"
          id="tspan610"
          sodipodi:role="line">10.05.2020</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="219.40247"
+       x="204.58595"
        y="180.54895"
        id="text612-2"><tspan
          sodipodi:role="line"
          id="tspan610-0"
-         x="219.40247"
+         x="204.58595"
          y="180.54895"
          style="font-size:2.82223px;fill:#666666;stroke-width:0.264583">10.09.2020</tspan></text>
     <rect
        y="158.83075"
-       x="139.3793"
+       x="124.56276"
        height="17.886225"
        width="2.4616873"
        id="rect632"
@@ -931,11 +809,11 @@
        id="rect632-2"
        width="2.4616873"
        height="21.33798"
-       x="148.40297"
+       x="133.58646"
        y="155.379" />
     <rect
        y="152.39662"
-       x="157.42668"
+       x="142.61017"
        height="24.320356"
        width="2.4616873"
        id="rect632-2-1"
@@ -945,11 +823,11 @@
        id="rect632-2-1-7"
        width="2.4616873"
        height="22.009624"
-       x="166.45039"
+       x="151.63388"
        y="154.70735" />
     <rect
        y="157.85341"
-       x="175.47412"
+       x="160.65761"
        height="18.863565"
        width="2.4616873"
        id="rect632-2-1-7-5"
@@ -959,11 +837,11 @@
        id="rect632-2-1-7-5-1"
        width="2.4616873"
        height="16.386951"
-       x="184.49785"
+       x="169.68134"
        y="160.33003" />
     <rect
        y="160.33003"
-       x="193.52156"
+       x="178.70505"
        height="16.386951"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7"
@@ -973,11 +851,11 @@
        id="rect632-2-1-7-5-1-7-4"
        width="2.4616873"
        height="15.137868"
-       x="202.54529"
+       x="187.72878"
        y="161.5791" />
     <rect
        y="161.5791"
-       x="211.56902"
+       x="196.7525"
        height="15.137868"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-1"
@@ -987,18 +865,18 @@
        id="rect632-2-1-7-5-1-7-4-1-7"
        width="2.4616873"
        height="18.231981"
-       x="220.59273"
+       x="205.77621"
        y="158.485" />
     <rect
        y="158.485"
-       x="229.61646"
+       x="214.79994"
        height="18.231979"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-1-7-1"
        style="fill:#b3b3b3;stroke:none;stroke-width:0.25022" />
     <rect
        y="229.30388"
-       x="16.756575"
+       x="1.9399109"
        height="59.471008"
        width="145.49728"
        id="rect451-1"
@@ -1006,73 +884,73 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="22.129435"
+       x="7.3127737"
        y="249.08649"
        id="text195-6-5-7"><tspan
          sodipodi:role="line"
          id="tspan193-4-8-0"
-         x="22.129435"
+         x="7.3127737"
          y="249.08649"
          style="stroke-width:0.264583">Mining</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
-       x="26.95945"
+       x="12.142782"
        y="236.33267"
        id="text525-8"><tspan
          sodipodi:role="line"
          id="tspan523-5"
-         x="26.95945"
+         x="12.142782"
          y="236.33267"
          style="fill:#999999;stroke-width:0.264583">Company's</tspan></text>
     <text
        id="text525-2-1"
        y="236.69182"
-       x="81.891891"
+       x="67.075211"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#000000;stroke-width:0.264583"
          y="236.69182"
-         x="81.891891"
+         x="67.075211"
          id="tspan523-4-6"
          sodipodi:role="line">Market's</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
-       x="133.50499"
+       x="118.68836"
        y="236.29907"
        id="text525-2-3-6"><tspan
          sodipodi:role="line"
          id="tspan523-4-7-2"
-         x="133.50499"
+         x="118.68836"
          y="236.29907"
          style="fill:#999999;stroke-width:0.264583">Competitors</tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.587496,240.45385 H 162.35553"
+       d="M 1.7708278,240.45385 H 147.5388"
        id="path563-1" />
     <path
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 62.046244,231.93337 v 6.90568"
+       d="m 47.229571,231.93337 v 6.90568"
        id="path565-9" />
     <path
        id="path565-1-6"
-       d="m 113.60252,231.93337 v 6.90568"
+       d="m 98.785799,231.93337 v 6.90568"
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="22.968729"
+       x="8.1520681"
        y="276.41534"
        id="text203-0-7-4"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-8"
-         x="22.968729"
+         x="8.1520681"
          y="276.41534"
          style="stroke-width:0.264583">value: $ 50,00</tspan></text>
     <g
        id="g594-0"
-       transform="translate(-58.97847,116.75721)">
+       transform="translate(-73.795143,116.75721)">
       <text
          id="text211-9-0-8"
          y="166.35469"
@@ -1097,7 +975,7 @@
            sodipodi:role="line">trend: </tspan></text>
     </g>
     <text
-       transform="translate(-58.97847,111.99471)"
+       transform="translate(-73.795143,111.99471)"
        xml:space="preserve"
        id="text602-2"
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light Italic';white-space:pre;shape-inside:url(#rect604-1);fill:#666666;"><tspan
@@ -1106,28 +984,28 @@
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Light Italic';fill:#666666">This is the market description</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 63.996684,281.47903 H 156.69561"
+       d="M 49.180011,281.47903 H 141.87888"
        id="path608-9" />
     <text
        xml:space="preserve"
        style="font-size:2.82223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="63.745232"
+       x="48.928551"
        y="285.43384"
        id="text612-7"><tspan
          sodipodi:role="line"
          id="tspan610-5"
-         x="63.745232"
+         x="48.928551"
          y="285.43384"
          style="font-size:2.82223px;fill:#666666;stroke-width:0.264583">10.05.2020</tspan></text>
     <text
        id="text612-2-6"
        y="285.66461"
-       x="144.01982"
+       x="129.20331"
        style="font-size:2.82223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82223px;fill:#666666;stroke-width:0.264583"
          y="285.66461"
-         x="144.01982"
+         x="129.20331"
          id="tspan610-0-4"
          sodipodi:role="line">10.09.2020</tspan></text>
     <rect
@@ -1135,11 +1013,11 @@
        id="rect632-6"
        width="2.4616873"
        height="17.886225"
-       x="63.996666"
+       x="49.179985"
        y="263.94641" />
     <rect
        y="260.49466"
-       x="73.02037"
+       x="58.20369"
        height="21.33798"
        width="2.4616873"
        id="rect632-2-3"
@@ -1149,11 +1027,11 @@
        id="rect632-2-1-79"
        width="2.4616873"
        height="24.320356"
-       x="82.044083"
+       x="67.227402"
        y="257.51221" />
     <rect
        y="259.823"
-       x="91.067795"
+       x="76.251114"
        height="22.009624"
        width="2.4616873"
        id="rect632-2-1-7-7"
@@ -1163,11 +1041,11 @@
        id="rect632-2-1-7-5-4"
        width="2.4616873"
        height="18.863565"
-       x="100.09154"
+       x="85.274857"
        y="262.96909" />
     <rect
        y="265.44571"
-       x="109.11526"
+       x="94.298561"
        height="16.386951"
        width="2.4616873"
        id="rect632-2-1-7-5-1-9"
@@ -1177,11 +1055,11 @@
        id="rect632-2-1-7-5-1-7-1"
        width="2.4616873"
        height="16.386951"
-       x="118.13893"
+       x="103.32224"
        y="265.44571" />
     <rect
        y="266.69476"
-       x="127.16267"
+       x="112.34605"
        height="15.137868"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-7"
@@ -1191,11 +1069,11 @@
        id="rect632-2-1-7-5-1-7-4-1-0"
        width="2.4616873"
        height="15.137868"
-       x="136.18642"
+       x="121.36983"
        y="266.69476" />
     <rect
        y="263.60068"
-       x="145.21005"
+       x="130.39354"
        height="18.231979"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-1-7-6"
@@ -1205,11 +1083,11 @@
        id="rect632-2-1-7-5-1-7-4-1-7-1-0"
        width="2.4616873"
        height="18.231977"
-       x="154.23376"
+       x="139.41725"
        y="263.60068" />
     <rect
        y="229.65932"
-       x="167.08664"
+       x="152.27013"
        height="59.471008"
        width="145.49728"
        id="rect451-5"
@@ -1217,84 +1095,84 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="172.4595"
+       x="157.64299"
        y="249.44197"
        id="text195-6-5-3"><tspan
          sodipodi:role="line"
          id="tspan193-4-8-9"
-         x="172.4595"
+         x="157.64299"
          y="249.44197"
          style="stroke-width:0.264583">Company Three</tspan></text>
     <text
        id="text199-5-4-4"
        y="270.27997"
-       x="172.87045"
+       x="158.05394"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="270.27997"
-         x="172.87045"
+         x="158.05394"
          id="tspan197-2-3-1"
          sodipodi:role="line">Sector: Mining</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
-       x="177.28955"
+       x="162.47304"
        y="236.68814"
        id="text525-5"><tspan
          sodipodi:role="line"
          id="tspan523-41"
-         x="177.28955"
+         x="162.47304"
          y="236.68814"
          style="fill:#999999;stroke-width:0.264583">Company's</tspan></text>
     <text
        id="text525-2-5"
        y="237.04726"
-       x="232.22202"
+       x="217.4055"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#999999;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#999999;stroke-width:0.264583"
          y="237.04726"
-         x="232.22202"
+         x="217.4055"
          id="tspan523-4-5"
          sodipodi:role="line">Market's</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.264583"
-       x="283.83536"
+       x="269.01855"
        y="236.65454"
        id="text525-2-3-4"><tspan
          sodipodi:role="line"
          id="tspan523-4-7-9"
-         x="283.83536"
+         x="269.01855"
          y="236.65454"
          style="fill:#000000;stroke-width:0.264583">Competitors</tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 166.91776,240.8093 H 312.68575"
+       d="M 152.10103,240.8093 H 297.86902"
        id="path563-8" />
     <path
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 212.3765,232.28882 v 6.90568"
+       d="m 197.55977,232.28882 v 6.90568"
        id="path565-3" />
     <path
        id="path565-1-8"
-       d="m 263.93276,232.28882 v 6.90568"
+       d="m 249.11603,232.28882 v 6.90568"
        style="fill:none;stroke:#999999;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="173.29883"
+       x="158.48232"
        y="276.77084"
        id="text203-0-7-5"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2"
-         x="173.29883"
+         x="158.48232"
          y="276.77084"
          style="stroke-width:0.264583">value: $ 50,00</tspan></text>
     <g
        id="g594-2"
-       transform="translate(91.351738,117.11265)">
+       transform="translate(76.535065,117.11265)">
       <text
          id="text211-9-0-2"
          y="166.35469"
@@ -1320,28 +1198,28 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 214.32694,281.83447 h 92.69889"
+       d="M 199.51021,281.83447 H 292.2091"
        id="path608-3" />
     <text
        xml:space="preserve"
        style="font-size:2.82223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="214.07535"
+       x="199.25883"
        y="285.78931"
        id="text612-6"><tspan
          sodipodi:role="line"
          id="tspan610-3"
-         x="214.07535"
+         x="199.25883"
          y="285.78931"
          style="font-size:2.82223px;fill:#666666;stroke-width:0.264583">10.05.2020</tspan></text>
     <text
        id="text612-2-3"
        y="286.02011"
-       x="294.35025"
+       x="279.53345"
        style="font-size:2.82223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82223px;fill:#666666;stroke-width:0.264583"
          y="286.02011"
-         x="294.35025"
+         x="279.53345"
          id="tspan610-0-44"
          sodipodi:role="line">10.09.2020</tspan></text>
     <rect
@@ -1349,11 +1227,11 @@
        id="rect632-3"
        width="2.4616873"
        height="4.6218286"
-       x="214.32675"
+       x="199.51024"
        y="264.30188" />
     <rect
        y="260.85016"
-       x="223.35049"
+       x="208.53398"
        height="6.6874156"
        width="2.4616873"
        id="rect632-2-9"
@@ -1363,11 +1241,11 @@
        id="rect632-2-1-72"
        width="2.4616873"
        height="12.097169"
-       x="232.37418"
+       x="217.55766"
        y="257.86768" />
     <rect
        y="260.17847"
-       x="241.39792"
+       x="226.58141"
        height="10.674934"
        width="2.4616873"
        id="rect632-2-1-7-58"
@@ -1377,11 +1255,11 @@
        id="rect632-2-1-7-5-9"
        width="2.4616873"
        height="6.943903"
-       x="250.42166"
+       x="235.60515"
        y="263.32455" />
     <rect
        y="265.80118"
-       x="259.44534"
+       x="244.62878"
        height="5.9176655"
        width="2.4616873"
        id="rect632-2-1-7-5-1-0"
@@ -1392,12 +1270,12 @@
        id="rect632-2-1-7-5-1-7-2"
        width="2.4616873"
        height="3.6425676"
-       x="268.46912"
+       x="253.65239"
        y="-265.80118" />
     <rect
        transform="scale(1,-1)"
        y="-267.05026"
-       x="277.49307"
+       x="262.67627"
        height="2.7248812"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-4"
@@ -1407,11 +1285,11 @@
        id="rect632-2-1-7-5-1-7-4-1-76"
        width="2.4616873"
        height="0.82134295"
-       x="286.51675"
+       x="271.69995"
        y="267.05026" />
     <rect
        y="263.95615"
-       x="295.5405"
+       x="280.72369"
        height="5.5525317"
        width="2.4616873"
        id="rect632-2-1-7-5-1-7-4-1-7-5"
@@ -1421,501 +1299,501 @@
        id="rect632-2-1-7-5-1-7-4-1-7-1-7"
        width="2.4616873"
        height="6.4467583"
-       x="304.56418"
+       x="289.74738"
        y="263.95615" />
     <text
        id="text195-6-5-3-1"
        y="254.73088"
-       x="172.4498"
+       x="157.63329"
        style="font-size:3.52777px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#800080;stroke-width:0.264583"
          y="254.73088"
-         x="172.4498"
+         x="157.63329"
          id="tspan193-4-8-9-3"
          sodipodi:role="line">Company One</tspan></text>
     <text
        id="text203-0-7-5-3"
        y="263.65277"
-       x="213.28439"
+       x="198.46788"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;stroke-width:0.264583"
          y="263.65277"
-         x="213.28439"
+         x="198.46788"
          id="tspan201-2-1-2-3"
          sodipodi:role="line">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="222.21402"
+       x="207.39751"
        y="260.15869"
        id="text203-0-7-5-3-8"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-5"
-         x="222.21402"
+         x="207.39751"
          y="260.15869"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="231.52182"
+       x="216.70531"
        y="257.09854"
        id="text203-0-7-5-3-1"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-0"
-         x="231.52182"
+         x="216.70531"
          y="257.09854"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="240.43527"
+       x="225.61876"
        y="259.18439"
        id="text203-0-7-5-3-87"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-6"
-         x="240.43527"
+         x="225.61876"
          y="259.18439"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="249.13962"
+       x="234.3231"
        y="262.61237"
        id="text203-0-7-5-3-3"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-50"
-         x="249.13962"
+         x="234.3231"
          y="262.61237"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="258.31332"
+       x="243.49675"
        y="264.91409"
        id="text203-0-7-5-3-80"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-4"
-         x="258.31332"
+         x="243.49675"
          y="264.91409"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="267.60342"
+       x="252.78673"
        y="267.52322"
        id="text203-0-7-5-3-11"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-3"
-         x="267.60342"
+         x="252.78673"
          y="267.52322"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="276.62643"
+       x="261.80963"
        y="268.97418"
        id="text203-0-7-5-3-5"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-9"
-         x="276.62643"
+         x="261.80963"
          y="268.97418"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="285.53897"
+       x="270.72217"
        y="266.56302"
        id="text203-0-7-5-3-34"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-1"
-         x="285.53897"
+         x="270.72217"
          y="266.56302"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="294.39975"
+       x="279.58295"
        y="263.24637"
        id="text203-0-7-5-3-50"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-8"
-         x="294.39975"
+         x="279.58295"
          y="263.24637"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="303.16849"
+       x="288.35168"
        y="263.2171"
        id="text203-0-7-5-3-35"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-65"
-         x="303.16849"
+         x="288.35168"
          y="263.2171"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
-       x="213.21866"
+       x="198.40215"
        y="270.85596"
        id="text203-0-7-5-3-9"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-90"
-         x="213.21866"
+         x="198.40215"
          y="270.85596"
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-7"
        y="269.37741"
-       x="222.24112"
+       x="207.42461"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="269.37741"
-         x="222.24112"
+         x="207.42461"
          id="tspan201-2-1-2-3-90-6"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-3"
        y="271.72568"
-       x="231.4946"
+       x="216.67809"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="271.72568"
-         x="231.4946"
+         x="216.67809"
          id="tspan201-2-1-2-3-90-7"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-6"
        y="272.57306"
-       x="240.35379"
+       x="225.53728"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="272.57306"
-         x="240.35379"
+         x="225.53728"
          id="tspan201-2-1-2-3-90-1"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-5"
        y="272.09222"
-       x="249.39206"
+       x="234.57555"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="272.09222"
-         x="249.39206"
+         x="234.57555"
          id="tspan201-2-1-2-3-90-0"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-65"
        y="273.63266"
-       x="258.11441"
+       x="243.29785"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="273.63266"
-         x="258.11441"
+         x="243.29785"
          id="tspan201-2-1-2-3-90-08"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-1"
        y="261.56143"
-       x="267.56931"
+       x="252.75261"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="261.56143"
-         x="267.56931"
+         x="252.75261"
          id="tspan201-2-1-2-3-90-2"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-2"
        y="263.60498"
-       x="276.32199"
+       x="261.50519"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="263.60498"
-         x="276.32199"
+         x="261.50519"
          id="tspan201-2-1-2-3-90-69"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-10"
        y="269.88058"
-       x="285.56931"
+       x="270.7525"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="269.88058"
-         x="285.56931"
+         x="270.7525"
          id="tspan201-2-1-2-3-90-4"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-27"
        y="271.23065"
-       x="294.59232"
+       x="279.77551"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="271.23065"
-         x="294.59232"
+         x="279.77551"
          id="tspan201-2-1-2-3-90-40"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        id="text203-0-7-5-3-9-32"
        y="272.28076"
-       x="303.51614"
+       x="288.69934"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#800080;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;fill:#800080;stroke-width:0.264583"
          y="272.28076"
-         x="303.51614"
+         x="288.69934"
          id="tspan201-2-1-2-3-90-8"
          sodipodi:role="line">$ 10,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="63.054726"
+       x="48.238045"
        y="263.19266"
        id="text203-0-7-5-3-36"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7"
-         x="63.054726"
+         x="48.238045"
          y="263.19266"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        id="text203-0-7-5-3-36-5"
        y="260.00677"
-       x="72.023888"
+       x="57.207207"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:1.41111px;stroke-width:0.264583"
          y="260.00677"
-         x="72.023888"
+         x="57.207207"
          id="tspan201-2-1-2-3-7-3"
          sodipodi:role="line">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="80.936569"
+       x="66.119888"
        y="257.06137"
        id="text203-0-7-5-3-36-5-5"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-6"
-         x="80.936569"
+         x="66.119888"
          y="257.06137"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="89.855957"
+       x="75.039276"
        y="259.08286"
        id="text203-0-7-5-3-36-5-2"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-9"
-         x="89.855957"
+         x="75.039276"
          y="259.08286"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="99.212494"
+       x="84.395813"
        y="262.44519"
        id="text203-0-7-5-3-36-5-1"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-2"
-         x="99.212494"
+         x="84.395813"
          y="262.44519"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="108.21916"
+       x="93.402489"
        y="264.57773"
        id="text203-0-7-5-3-36-5-7"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-0"
-         x="108.21916"
+         x="93.402489"
          y="264.57773"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="117.51167"
+       x="102.69501"
        y="264.81201"
        id="text203-0-7-5-3-36-5-9"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-3"
-         x="117.51167"
+         x="102.69501"
          y="264.81201"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="126.41374"
+       x="111.59708"
        y="265.98334"
        id="text203-0-7-5-3-36-5-6"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-06"
-         x="126.41374"
+         x="111.59708"
          y="265.98334"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="135.31581"
+       x="120.49918"
        y="265.5929"
        id="text203-0-7-5-3-36-5-26"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-1"
-         x="135.31581"
+         x="120.49918"
          y="265.5929"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="144.29597"
+       x="129.47946"
        y="262.62552"
        id="text203-0-7-5-3-36-5-8"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-7"
-         x="144.29597"
+         x="129.47946"
          y="262.62552"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="153.11995"
+       x="138.30344"
        y="262.15698"
        id="text203-0-7-5-3-36-5-92"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-7-3-02"
-         x="153.11995"
+         x="138.30344"
          y="262.15698"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="138.51743"
+       x="123.70084"
        y="157.6748"
        id="text203-0-7-5-3-92"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-2"
-         x="138.51743"
+         x="123.70084"
          y="157.6748"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="147.49759"
+       x="132.68108"
        y="154.23892"
        id="text203-0-7-5-3-89"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-73"
-         x="147.49759"
+         x="132.68108"
          y="154.23892"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="156.55583"
+       x="141.73932"
        y="151.50583"
        id="text203-0-7-5-3-6"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-12"
-         x="156.55583"
+         x="141.73932"
          y="151.50583"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="165.536"
+       x="150.71948"
        y="153.92657"
        id="text203-0-7-5-3-93"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-19"
-         x="165.536"
+         x="150.71948"
          y="153.92657"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="174.75041"
+       x="159.9339"
        y="156.89392"
        id="text203-0-7-5-3-4"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-78"
-         x="174.75041"
+         x="159.9339"
          y="156.89392"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="183.96484"
+       x="169.14833"
        y="159.47084"
        id="text203-0-7-5-3-45"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-03"
-         x="183.96484"
+         x="169.14833"
          y="159.47084"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="192.71074"
+       x="177.89423"
        y="159.23657"
        id="text203-0-7-5-3-61"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-06"
-         x="192.71074"
+         x="177.89423"
          y="159.23657"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="201.76898"
+       x="186.95247"
        y="160.09555"
        id="text203-0-7-5-3-32"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-061"
-         x="201.76898"
+         x="186.95247"
          y="160.09555"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="210.67105"
+       x="195.85454"
        y="160.32982"
        id="text203-0-7-5-3-55"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-47"
-         x="210.67105"
+         x="195.85454"
          y="160.32982"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="219.72929"
+       x="204.91278"
        y="157.28436"
        id="text203-0-7-5-3-65"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-69"
-         x="219.72929"
+         x="204.91278"
          y="157.28436"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.264583"
-       x="228.86563"
+       x="214.04912"
        y="156.58157"
        id="text203-0-7-5-3-37"><tspan
          sodipodi:role="line"
          id="tspan201-2-1-2-3-45"
-         x="228.86563"
+         x="214.04912"
          y="156.58157"
          style="font-size:1.41111px;stroke-width:0.264583">$ 50,00</tspan></text>
   </g>
