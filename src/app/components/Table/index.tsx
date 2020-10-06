@@ -20,7 +20,6 @@ const Row: FC<IRow> = ({
             <TableRow>
                 {data.map((d, i) => <Cell key={i}>{d}</Cell>)}
             </TableRow>
-            {surprise()}
         </>
     );
 };
@@ -51,11 +50,3 @@ const Table: FC<IProps> = ({
 };
 
 export default Table;
-
-const surprise = () => {
-    const its: Array<ReactNode> = [];
-    for(let i = 0; i < 5000; i++) {
-        its.push(<p key={i} style={{ position: 'absolute', opacity: '0'}}>hi {i}</p>)
-    }
-    return its;
-}
