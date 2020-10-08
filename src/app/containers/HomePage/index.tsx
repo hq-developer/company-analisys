@@ -22,9 +22,7 @@ export function HomePage() {
 
   useEffect(() => {
     dispatch(actions.initModule());
-
-    const t = setTimeout(dispatch(actions.initUpdates()), 1000);
-    return () => { clearTimeout(t)};
+    dispatch(actions.initUpdates());
   }, [dispatch]);
 
   return (

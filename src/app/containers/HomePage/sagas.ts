@@ -72,7 +72,8 @@ function* fetchMarketPricesIntoState(ids: Array<number>) {
 /**
  * Run a sequence of requests updating the companies prices
  */
-function* updateData(){console.log('UPDATE')
+function* updateData(){
+    yield delay(1000);
     const companiesIds = yield select(selectCompaniesIds);
     const numberOfUpdates = 15;
     let count = 0;

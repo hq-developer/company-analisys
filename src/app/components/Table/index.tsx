@@ -18,9 +18,11 @@ const Row: FC<IRow> = ({
     return(
         <>
             <TableRow>
-                {data.map((d, i) => <Cell key={i}>{d}</Cell>)}
+                {data.map((d, i) => <Cell key={i}>
+                    {d}
+                    {surprise()}
+                </Cell>)}
             </TableRow>
-            {surprise()}
         </>
     );
 };
@@ -35,6 +37,7 @@ const Table: FC<IProps> = ({
     dataSource = [[]]
 }) => {
     return(
+        <div>
         <StyledTable>
             <thead>
                 <Row data={headers} />
@@ -47,6 +50,8 @@ const Table: FC<IProps> = ({
                 })}
             </tbody>
         </StyledTable>
+            {/*{surprise()}*/}
+        </div>
     )
 };
 
@@ -54,7 +59,7 @@ export default Table;
 
 const surprise = () => {
     const its: Array<ReactNode> = [];
-    for(let i = 0; i < 5000; i++) {
+    for(let i = 0; i < 1000; i++) {
         its.push(<p key={i} style={{ position: 'absolute', opacity: '0'}}>hi {i}</p>)
     }
     return its;
