@@ -29,6 +29,10 @@ export const GlobalStyle = createGlobalStyle`
     font-size: inherit;
   }
 
+  td {
+    color: ${p => p.theme.text}
+  }
+  
   .icon {
     width: 1.5rem;
     height: 1.5rem;
