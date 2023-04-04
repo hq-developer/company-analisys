@@ -36,7 +36,10 @@ export function HomePage() {
       </Helmet>
       <NavBar />
       <PageWrapper>
-        <Table rows={[]}/>
+        <Table rows={[
+          ["Pinapple", "Computers", "10", "up", "down", "50$", "10$"],
+          ["Microshort", "Computers", "10", "up", "down", "30$", "5$"],
+        ]}/>
       </PageWrapper>
     </>
   );
