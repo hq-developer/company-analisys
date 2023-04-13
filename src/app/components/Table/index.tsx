@@ -5,9 +5,17 @@ const StyledTable = styled.table`
     width: 100%;
 `;
 
+const TableHead = styled.thead`
+  font-weight: bold;
+`;
+
 const TableRow = styled.tr``;
 
-const Cell = styled.td``;
+const Cell = styled.td`
+  font-size: 1rem;
+  color: ${p => p.theme.text};
+  margin-right: 1rem;
+`;
 
 interface IRow {
     data?: Array<ReactNode>;
@@ -37,11 +45,10 @@ const Table: FC<IProps> = ({
     dataSource = [[]]
 }) => {
     return(
-        <>
         <StyledTable>
-            <thead>
+            <TableHead>
                 <Row data={headers} />
-            </thead>
+            </TableHead>
             <tbody>
                 {dataSource.map((row, i) => {
                     return (
@@ -50,7 +57,6 @@ const Table: FC<IProps> = ({
                 })}
             </tbody>
         </StyledTable>
-        </>
     )
 };
 

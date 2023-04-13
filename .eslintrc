@@ -1,8 +1,7 @@
 {
   "parser": "babel-eslint",
   "extends": [
-    "standard",
-    "airbnb",
+    "react-app",
     "prettier",
     "prettier/react",
     "prettier/standard"
