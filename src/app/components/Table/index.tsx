@@ -28,7 +28,7 @@ const Row: FC<IRow> = ({
             <TableRow>
                 {data.map((d, i) => <Cell key={i}>
                     {d}
-                    {surprise()}
+                    {/*{surprise()}*/}
                 </Cell>)}
             </TableRow>
         </>
